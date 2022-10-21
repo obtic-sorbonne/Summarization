@@ -16,6 +16,7 @@ For the evaluation of the extracted summaries, three levels of text quality meas
  	 
 3. Vocabulary and Style:
 	- The summary is not identical to the original text, it rather introduces new data (sentences)
+	- The length of the summary is suitable 
 
 Based on these considerations, the human evaluations have been conducted using five ranking levels according to the Mean Opinion Score (MOS) scale:
 1) Bad 
