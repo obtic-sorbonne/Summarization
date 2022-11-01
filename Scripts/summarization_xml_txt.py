@@ -54,7 +54,11 @@ def index(url):
                 summary = summarizer(v, max_length=250, min_length=30)
 
         # clean text
-                summary = summary[0]['summary_text'].replace(u'\xa0', u' ')
+                summary_result = summary[0]['summary_text'].replace(u'\xa0', u' ')
+                if model == 't5-large':
+                    summary = '. '.join([x.strip().capitalize() for x in summary_result.split('.')])
+                else:
+                    summary = summary_result
 
         # Get keyword
                 kw_model = KeyBERT()
