@@ -1,0 +1,1281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d1 20130915//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta id="journal-meta-1">
+      <journal-id journal-id-type="nlm-ta">Revista Comunicar</journal-id>
+      <journal-id journal-id-type="publisher-id">Revista Comunicar</journal-id>
+      <journal-id journal-id-type="journal_submission_guidelines">https://www.revistacomunicar.com/index.php?idioma=es</journal-id>
+      <journal-title-group>
+        <journal-title>Comunicar</journal-title>
+      </journal-title-group>
+      <issn publication-format="electronic">1988-3293</issn>
+      <issn publication-format="print">1134-3478</issn>
+    </journal-meta>
+    <article-meta id="article-meta-1">
+      <article-id pub-id-type="doi">https://doi.org/10.3916/C73-2022-05</article-id>
+      <title-group>
+        <article-title id="at-1e277ab44ef0">
+          <bold id="strong-1">Imagination, education for the future and democratic culture: Educational policies in the Iberian Peninsula</bold>
+        </article-title>
+        <trans-title-group>
+          <trans-title>Imaginación, educación para el futuro y cultura democrática: Políticas educativas en la Península Ibérica</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7003-0019</contrib-id>
+          <name id="n-95677bcdc065">
+            <surname>Casadellà.</surname>
+            <given-names>Marina</given-names>
+          </name>
+          <degrees>Dr.</degrees>
+          <email>marina.casadella@uab.cat</email>
+          <bio>
+            <p>Associate Professor, Department of Language and Literature Education and Social Science Education, </p>
+            <p>Autonomous University of Barcelona (Spain)</p>
+          </bio>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-7054-8819</contrib-id>
+          <name id="n-dae1264e9327">
+            <surname>Massip-Sabater.</surname>
+            <given-names>Mariona</given-names>
+          </name>
+          <degrees>Dr.</degrees>
+          <email>mariona.massip@uab.cat</email>
+          <bio>
+            <p>Researcher, Department of Language and Literature Education and Social Science Education, </p>
+            <p>Autonomous University of Barcelona (Spain)</p>
+          </bio>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-8597-0994</contrib-id>
+          <name id="n-219490df0f88">
+            <surname>González-Monfort.</surname>
+            <given-names>Neus</given-names>
+          </name>
+          <degrees>Dr.</degrees>
+          <email>neus.gonzalez@uab.cat</email>
+          <bio>
+            <p>Assistant Professor, Department of Language and Literature Education and Social Science Education, </p>
+            <p>Autonomous University of Barcelona (Spain)</p>
+          </bio>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-6500-844X</contrib-id>
+          <name id="n-f9ecbb69295c">
+            <surname>Dias-Gomes.</surname>
+            <given-names>Alfredo</given-names>
+          </name>
+          <degrees>Dr.</degrees>
+          <email>alfredogdias@gmail.com</email>
+          <bio>
+            <p>Assistant Professor, Polytechnic Institute of Lisbon (Portugal)</p>
+          </bio>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3159-8362</contrib-id>
+          <name id="n-445a249ef10d">
+            <surname>Barroso-Hortas.</surname>
+            <given-names>Maria-João</given-names>
+          </name>
+          <degrees>Dr.</degrees>
+          <email>mjhortas@eselx.ipl.pt</email>
+          <bio>
+            <p>Coordinating Professor, Polytechnic Institute of Lisbon (Portugal)</p>
+          </bio>
+        </contrib>
+      </contrib-group>
+      <volume>30</volume>
+      <issue>73</issue>
+      <fpage>53</fpage>
+      <permissions>
+        <copyright-year>2022</copyright-year>
+      </permissions>
+      <abstract id="abstract-f5ca90af4409">
+        <title id="abstract-title-64cda50e3e6b">Abstract</title>
+        <p id="paragraph-1272135aa470">In a historical moment, where the future is considered a threat, it seems highly relevant to teach the ability to imagine desirable futures. Education for the Future (EF), from the Anglo-Saxon tradition, represents a reference to give a response to negative images about the idea of the future. The competences for democratic culture defined by the Council of Europe provide the basis for the elaboration of a theoretical framework that includes the imagination of democratic and sustainable futures as one of its main conceptual axes. This study analyses official documents of public policies carried out in the Iberian context, to examine the treatment of the idea of future in education systems. Three levels of policies have been studied: state educational laws, primary education curricula and institutional teacher training policies. The public policies have been analysed using the normative method of content analysis, with a syntactic sampling strategy, calculating the absolute and relative frequency of the units of analysis. Results show that there are few references to the construction of the concept of the future in public policies and suggest that the opportunity to educate others on the imagination of desirable futures may be being wasted.</p>
+      </abstract>
+      <abstract id="abstract-e004fe985788">
+        <title id="abstract-title-14086706e504">Resumen</title>
+        <p id="paragraph-c2d51440c151">En un momento histórico en el que el futuro se concibe como una amenaza, parece altamente relevante educar en la capacidad de imaginar futuros deseables. La Educación para el Futuro (EpF), de tradición anglosajona, representa una referencia de trabajo para responder a las imágenes negativas sobre la idea del provenir. Las competencias de cultura democrática definidas por el Consejo de Europa dan pie a la elaboración de un marco teórico que incluye la imaginación de futuros democráticos y sostenibles como uno de sus principales ejes conceptuales. El presente estudio analiza documentos oficiales de políticas públicas llevadas a cabo en ámbito ibérico, para examinar el tratamiento de la idea de futuro en los sistemas educativos. Se han estudiado políticas públicas a tres niveles: leyes educativas estatales, currículos de Educación Primaria y políticas institucionales de formación docente, para indagar cuál es la presencia del eje conceptual sobre la imaginación de futuros en estos documentos. Las públicas han sido analizadas mediante el método normativo de análisis de contenido, con una estrategia de muestreo sintáctico, calculando la frecuencia absoluta y relativa de unidades de análisis. Los resultados muestran que hay escasas referencias a la construcción del concepto de futuro en las políticas públicas, y dan a entender que se puede estar desaprovechando la oportunidad de educar para la imaginación de futuros deseables.</p>
+      </abstract>
+      <kwd-group id="kwd-group-1">
+        <title>Keywords</title>
+        <kwd>Education for the future</kwd>
+        <kwd>education policies</kwd>
+        <kwd>public policy</kwd>
+        <kwd>citizenship education</kwd>
+        <kwd>democracy</kwd>
+        <kwd>and teacher training</kwd>
+      </kwd-group>
+      <kwd-group id="kg-673724ab57c6">
+        <title>Palabras clave</title>
+        <kwd>Educación para el futuro</kwd>
+        <kwd>políticas educativas</kwd>
+        <kwd>política pública</kwd>
+        <kwd>educación ciudadana</kwd>
+        <kwd>democracia</kwd>
+        <kwd>formación del profesorado</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Education for the future and hope in democracy. Rethinking social science teaching in times of change (EF+ED). Ministry of Science and Innovation. PID2019-107383RB-100.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title id="t-7f0ea4483d49">Introduction</title>
+      <p id="t-df47cb22c6a8">On September 23, 2019, activist Greta Thunberg spoke at the United Nations General Assembly and accused the political class, and an entire generation, of having "stolen her future". The will to reclaim it has led to one of the most constant and high-profile student movements of recent years, Fridays for Future, claiming the future through the demand for its reappropriation. This idea of a stolen future, a lost future, is not new. It is the basis of what the philosopher Marina Garcés considers as the fundamental characteristic of the times we live in, the "posthumous" times<italic id="emphasis-1">, </italic> in which the future is not conceived as a project, but as a threat (Garcés, 2019; 2020). It is a threat of socio-ecological collapse, forced migrations, unsustainable inequalities, extinction, or the rise of the far-right; a threat empowered by "a media avalanche of catastrophes" (Servigne &amp; Stevens, 2020: 11).  </p>
+      <p id="paragraph-2">For Garcés (2020: 144), the inhabitants of the 21st century "are those of us who do not imagine any future that is not catastrophic"<xref id="x-64a2ba9e75d8" rid="f-2a691b3f2ff0" ref-type="fn">2</xref>, and who live between fear and resignation to adapt to uncertainty. Leccardi (2014) relates the phenomenon to the timelessness of bibliographies<italic id="emphasis-2">, </italic>located in a framework no longer of a "liquid society" (Bauman, 2007), but of an accelerated society in which "the future vanishes: it withdraws into the present, is absorbed by it and is consumed before it can be really conceived" and in which " long-term plans become potentially obsolete, medium- and long-term predictions are impracticable and, finally, the temporal structure of identities is altered" (Leccardi, 2014: 42). What role does education have in the context of this attitude of resignation, or in the face of uncertainty of a future that is no longer promising? Education for the future (EF) emerged precisely to respond to the challenges of educating young people who feel that their future has been stolen from them, who live surrounded by negative images about the future (Santisteban &amp; Anguera, 2013), and whose realities constantly clash with the hopes they project when constructing life projects (Fernández-de-Mosterín &amp; Morán, 2017). EF addresses the future as the basic temporal axis (Santisteban &amp; Anguera, 2014), and is oriented towards the construction of desirable futures. It does not resign itself to giving up but is concerned with the projection of alternative futures from fundamental dimensions such as imagination and committed participation.  </p>
+      <p id="paragraph-4">In this article, we set out to delve into the relationship between EF and imaginaries, understanding that the first step to building alternative futures is being able to imagine them (Sardar &amp; Sweeney, 2016; Slaughter, 1988). To do so, the principles of EF and the ontological approaches that link it to imagination are reviewed. We wonder to what extent imagination is present in the approaches of democratic culture competences, in which the construction of a more just and liveable future is the main objective. The current student movements, concerned about the climate crisis and the obsolescence of the predominant socio-economic and socio-political models in Western liberal democracies, claim the reappropriation of the future through active participation, from forceful social, political, and economic criticism, and with resilient hope. A few decades ago, in May 1968, the youth proclaimed that imagination had taken power. Surely, the distance between the two movements is only temporary if empowered imagination builds the future and, in order to reappropriate the future, it is necessary to know how to imagine it. In addition, both movements have also explicitly targeted education and its institutions. Given these circumstances, in a world where the outlook for the future lies somewhere between fear, conformity and uneasiness, it seems more than necessary to ask ourselves what the role of formal education is in this conceptual construction. It seems necessary to know what the idea of the future is and how it is constructed within the framework of the current educational system. For this reason, our study uses the state and autonomous legal framework (of Spain and Portugal), the curriculum design of primary education (of the official curriculum of Catalonia and Portugal) and the university design of initial teacher training (of the Autonomous University of Barcelona and the Escola Superior de Educação of the Polytechnic Institute of Lisbon) as a reference, with the aim of identifying the intention of future training and how this is reflected in the official documents, which are a working guide for active teachers.</p>
+    </sec>
+    <sec>
+      <title id="t-cb4941521606">Theoretical framework</title>
+      <sec>
+        <title id="t-9610b9d8d727">Education for the future</title>
+        <p id="t-433b053b092a">Education for the future (EF) stems from "Future Studies",<italic id="e-06d958c0b950"> </italic> with an Anglo-Saxon tradition in countries such as England, Australia, New Zealand, and the United States. It attempts to respond to the widespread existence of negative images about the future and about citizens’ perceptions of its uncertainty (Santisteban &amp; Anguera, 2013). It addresses the future as a basic time axis, focusing on the construction of individual and collective futures as a basic educational purpose (Anguera &amp; Santisteban, 2012; Pagès, 2019).  </p>
+        <p id="p-8591ace259fd">Studies on the future in teaching have been closely related to education for sustainability (Hicks, 2006; Hicks, &amp; Holden, 2007) since on many occasions it is the challenges arising from the climate emergency that have put the future at stake. As Su (2022) explains, “the new educational problem goes far beyond the known tension of an uncertain and open future, which has been a core principle of modern education (…) The problem of uncertainty escalates, since our society cannot ensure that today’s children will have a liable planet at all” (p.2). In recent years, the obvious links between EF and the development of historical-time awareness have been identified (Guldi &amp; Armitage, 2016; Burke, 2007), so they have started to develop in the field of “social studies education”<italic id="e-01d91289b94b"> </italic> and social science education. Santisteban y Anguera (2014: 249) propose an inseparable connection between EF and historical consciousness, insofar as “historical-time consciousness points strongly to the future-present, and education for the future requires reflection on the past and the learning of temporality” </p>
+        <p id="p-54a5881223b5">From the perspective of historical consciousness, it is understood that history is not relegated to a past context, but interacts, relates, and is projected in the past-present-future axis (Burke, 2007), in a complex, non-linear way. Slaughter (1988) argues that our present interpretation of the past marks our anticipation of the future. Bell (1997) argues that the past is a guide for living in the present and a tool for building the future. Fontana (2016) mentions that understanding human societies on the time axis allows us to better understand the present, so that with our actions we consciously act to shape the world to come, which is not previously determined but will be the result of what we all know and want to do.  </p>
+        <p id="p-22cfb25850d5">Thus, knowledge of the past would be "a source of insight into the measure of our free will in the future" (Guldi &amp; Armitage, 2016: 66), and its misunderstanding could involve limitations for future participation and action: "Society is plagued by misconceptions about the past, which further limit its collective hopes for the future" (Guldi &amp; Armitage, 2016: 35). Other authors defend the projection of this historical consciousness for the analysis of current social problems, and for the assessment of options and alternatives for the future that are oriented towards social justice (Santisteban, 2017).  </p>
+        <p id="p-082016dbba98">The social and sociological emphasis on future projections and their educational dimensions is consolidated through visions that defend a double link between future projections and society: the future as collective constructions and developed within the framework of collectivities, and society as a product of images of a future that is partly shared (Fernández-de-Mosterín &amp; Morán, 2017). In the words of Simmel (1986): "the social fabric, as we know it, is not possible without imagining at least some kind of future". This possibility of imagining is fundamental not only in the projection of futures and alternatives, but also in the possibilities of participation, creation, and social action, and constitutes the main idea on which this study is based.</p>
+      </sec>
+      <sec>
+        <title id="t-3907c62b2d5b">
+          <bold id="s-b47db0c19efe">Imagination, politics, and future projection </bold>
+        </title>
+        <p id="t-808ca51dcd4e">In the context of EF, some of the main models of future projection point to the possibility of imagining as a fundamental element. As an educational problem, the future exists as imaginary, as the projection of what the future may become (Su, 2022). From decolonial educational perspectives, concepts such as imagination, imaginaries and the deconstruction of hegemonic imaginaries are considered indispensable (De-Sousa &amp; Aguiló, 2019; Latouche, 2015; Sant et al., 2018).  </p>
+        <p id="p-ae07f85e1386">Slaughter's (1988) proposal refers to three different dimensions of future projections: possible futures, probable futures and desirable futures. In this case, the first scenario considers the possibility of imagining a future as possible. More recently, Sardar and Sweeney's (2016) proposal posits three other dimensions of future projection that correspond to different levels of complexity: the extension of the present, familiar futures, and unimagined futures. As Almendro (2022) reminds us: "not all imaginable worlds are feasible, fortunately or unfortunately. But there is no doubt that we can only build those worlds that we are capable of imagining". In this case, futures that are an extension of the present would be the easiest to produce and reproduce, followed by familiar ones, known through social and media narratives, real or fictionalized. The maximum complexity lies in the projection of futures that are not part of our imagination.<italic id="e-fcf4926432b9"> </italic> In this sense, imagination, or the possibility of imagining, is not only a faculty of creative thinking: "there is no imagination that is not political" (Garcés, 2020: 158).  </p>
+        <p id="p-96ff70f75098">Arendt (2005) and Arendt and Kohn (2006) share this political view of imagination, understanding that it allows us to imagine a different world that influences the judgments and actions of political agents. It advocates that the imagined reality has to maintain relationships and similarities with the present reality, so that transformative action is possible and achievable (Tyner, 2017). It is this connection that generates a connection between the realm of experience (Koselleck, 1993) and the horizon of expectations (Schulz, 2016), and dissociation between the two can lead not only to uncertainty, but also to passivity. Martorell-Campos (2021) puts it simple e: the multiplication of dystopian narratives is not free of ideology, since it plays in favour of a prevailing order that encourages demobilization and defeatism, or the adoption of defensive activism limited to complain. From this perspective, imagination becomes an essential element of politics and of education.  </p>
+        <p id="paragraph-6">"Imagination is not only a faculty subservient to knowledge. It is the activity that makes the absent present, and therefore, goes beyond aesthetics; it is also an ethical and political virtue. (...) Imagination is not a gift; it is a learned practice. It is the free, but not arbitrary, composition of perspectives on the world" (Garcés, 2020: 158). The idea of imagination as teachable has been developed extensively by Spivak (2012), who argues that the main task of education is to train the imagination to prepare knowledge and reorganise desires. According to Mollenhauer (2008), education has to offer new generations an "exposure to possibility". Not only to signify the present experience, to project and act in the construction of fairer and more liveable futures, but also to be able to react socially to possible unfavourable scenarios. If imagination is teachable, the educational challenge from a democratic perspective is no less: not only can it be taught in favour of the construction of more equal and just futures, but it can also be directed towards more excluding futures. It is interesting, in this case, to retrieve the concept of the self-defence of imagination (Üstündag, 2017): "it is to be able to continue imagining fairer presents and better futures, despite repression. But it is also the need not to forget that the worst can happen" (Garcés, 2020: 159).  </p>
+        <p id="p-1ca9d5e8d25d">In this sense, imagination and its social and educational implications become essential keys to democracy and democratic education. This is due to them being an agent and product of collective projects because images of the future have a great influence on our attitude to participate (Arendt &amp; Kohn, 2006; Santisteban &amp; Anguera, 2013), and because the possibilities of building socially fairer futures in which it is possible to develop personal and collective projects within a framework of a dignified and liveable life depend on them. In the words of Su (2022), it seems fundamental to understand education not only as a preparation to place oneself in a present socio-political sphere and an accommodated future (Su, 2022), but as the space to educate new generations "capable of new beginnings" (Arendt &amp; Kohn, 2006). If imagination is teachable, the educational challenge from a democratic perspective is no less: not only can it be taught in favour of the construction of more equal and just futures, but it could also be directed towards more excluding futures. Thus, the way in which to educate the imagination takes on special relevance and increases the responsibility of the teaching task.</p>
+      </sec>
+      <sec>
+        <title id="t-778f652df665">The “imagine” axis as a representation of the future in the CDC</title>
+        <p id="t-87c128bbe2a1">Education for the future in Spain has received little attention, a situation that contrasts with that of other Anglo-Saxon countries, where education for the future appears in official curricula and in numerous educational proposals. The demand for the incorporation of futures in curricula is not new in countries such as England (Hicks &amp; Slaughter, 1998), where its study has a significant presence in teacher training and in the primary education curriculum, although more space is demanded (Hicks, 2011). Slaughter (2012) assesses that the tools and concepts to work on the future have not been generalized in teaching and, in this sense, concludes that this is still a democratic shortfall. In this context, it seems fundamental for this study to investigate the future projection of educational policies in Spain and Portugal, and to do so in relation to the Competences for Democratic Culture (CDC). The research project in which this study is framed defines four theoretical axes that represent four subdimensions of CDC. These conceptual axes represent a relevant theoretical structuring for the activation and incorporation of CDC in the educational system. The axes in question are the following: </p>
+        <p id="p-d0bf5ac08599">a) “Value. Education for Global Citizenship"<italic id="e-8194755847f9">, </italic> which<italic id="e-91c58fb8474f"> </italic> explores forms of education that enable students to deal with local and global challenges in an ethical manner (Lilley et al., 2017).  </p>
+        <p id="p-460b92fd1204">b) "Examine. Digital Critical Literacy", which highlights the importance of education to be critically literate in the digital context (Pangrazio, 2016) and enables students to critically interpret the media message, including hate speech, and empowers them to produce more democratic and social justice-oriented messages. </p>
+        <p id="p-522705b98c7b">c) "Act. Active citizenship and hope for democracy", which proposes to address relevant social problems and controversial issues in educational contexts, with the aim of helping students to engage in a deliberation process (Parker, 2010). In this process, students engage in a discussion that will allow them to make a decision on what actions to take in reference to this issue, with the objective of strengthening the basis of a democratic decision-making culture.  </p>
+        <p id="p-9de63f6d0d4a">d) "Imagine. Democratic and sustainable futures", which is framed within the principles of education for the future and is the focus of this study. In a framework of incorporating CDC in teaching proposals, it seems relevant to educate young people to imagine desirable democratic futures, as opposed to the dystopian images often presented by primary school students when referring to the future of democracy and humanity (Inayatullah, 2006; Santisteban &amp; Anguera, 2013).  </p>
+        <p id="p-253f07cb73a6">As part of a research project that analyses the presence of CDC and these four conceptual axes in the public policies of different educational systems, the present study looks specifically at the treatment of the axis "Imagine. Democratic and sustainable futures".<italic id="emphasis-3"> </italic> Considering the importance of education for the future in the first stage of compulsory schooling and accepting the transcendent role that imagination plays in this stage, it is relevant to analyse the presence of this conceptual axis in the documents defining the principles and objectives of this stage, as a tool for understanding where we are and where we should be heading.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title id="t-a1ae686d93c2">Methodology</title>
+      <p id="t-ae70d00afa00">This study analyses public policies in Spain and Portugal concerning teacher training at three levels: state organic laws, which describe the generic legal framework at the state level underpinning the education system; the educational curriculum, whose main function is to guide school activities and provide teachers with a guide for educational actions; and institutional (university) policies, which define the didactic content presented in teacher training provision. The selected public policies had to meet the following criteria: </p>
+      <list list-type="bullet">
+        <list-item id="li-2c12d27e19d7">
+          <p>Time: Only the latest public policies implemented in January 2021 have been considered. </p>
+        </list-item>
+        <list-item id="li-8f9d7d467bd3">
+          <p>Area of Application: Only public policies applied in Spain and Portugal have been considered. </p>
+        </list-item>
+        <list-item id="li-213ecad0f0d4">
+          <p>University teacher training: Only public policies directly or indirectly related to initial teacher education at university level have been considered. </p>
+        </list-item>
+        <list-item id="li-a5a8af570ca3">
+          <p>Age group: Only public policies directly or indirectly related to primary education (aimed at students aged 6-11) have been considered. </p>
+        </list-item>
+        <list-item id="li-243c233a051a">
+          <p>Focus: Only public policies directly or indirectly related to the Competences for Democratic Culture Framework (Council of Europe, 2018) have been considered.  </p>
+        </list-item>
+      </list>
+      <p id="p-d0376279f64d">In addition, the public policies analysed are presented at three levels: the first level with state laws, which include organic laws, royal decrees and decree-laws linked to the educational function of primary education and teacher training in Spain and Portugal. The second level includes the educational curricula of Portugal and Catalonia (in the case of Spain, the design of the curriculum is a regional competence). Finally, the third level includes the institutional policies of the Autonomous University of Barcelona (UAB) and the Polytechnic Institute of Lisbon (IPL), in the design of their initial teacher training curricula. Considering these three levels and the aforementioned criteria, the public policies analysed from Spain/Catalonia are as follows:</p>
+      <list list-type="bullet">
+        <list-item id="li-07753912fe49">
+          <p>Organic Law 2/2006, of May 3, on Education. </p>
+        </list-item>
+        <list-item id="li-c090178c1122">
+          <p>Organic Law 8/2013, of December 9, on Improvements in the Quality of Education (LOMCE). </p>
+        </list-item>
+        <list-item id="li-e3cc18d6c0bf">
+          <p>Royal Decree 1594/2011, of November 4, which establishes the teaching specialities of the Corps of Teachers who carry out their duties in the stages of Infant Education and Primary Education regulated in Organic Law 2/2006, of May 3, on Education. </p>
+        </list-item>
+        <list-item id="li-065e7b5ac5f4">
+          <p>Royal Decree 1393/2007, of October 29, which establishes the organisation of official university education. </p>
+        </list-item>
+        <list-item id="li-0cbad389282b">
+          <p>Order ECI/3857/2007, of December 27, which establishes the requirements for the verification of official university degrees that enable the practice of the Primary Education Teacher profession. </p>
+        </list-item>
+        <list-item id="li-5820c9a36078">
+          <p>Primary Education Curriculum. Catalonia Government. Department of Education. </p>
+        </list-item>
+        <list-item id="li-21a04dea26b3">
+          <p>Report of the Primary Education Degree. </p>
+        </list-item>
+        <list-item id="li-03cd837e47ba">
+          <p>Teaching guides for the subjects that make up the Degree in Primary Education (2021) at the Autonomous University of Barcelona (UAB). </p>
+        </list-item>
+      </list>
+      <p id="p-718ee1199430">On the other hand, for the analysis of the policies followed in Portugal, the starting point has been the Lei de Bases do Sistema Educativo, of 1986 and revised in 2005. The rest of the documents analysed were as follows:</p>
+      <list list-type="bullet">
+        <list-item id="li-f4d64d1fc216">
+          <p>Decree-Law no. 79/2014, defining the academic qualifications for teaching activity in basic and secondary education (3-17 years).  </p>
+        </list-item>
+        <list-item id="li-2dc9038faf13">
+          <p>"Perfil dos alunos que concluem a escolaridade obrigatória, Ministério da Educação", Ministry of Education, defining the competences to be developed in students during compulsory education (2017). </p>
+        </list-item>
+        <list-item id="li-6f24d8d36d37">
+          <p>“Referencial Educação para o Desenvolvimento, Ministério da Educação”, which defines the involvement of the “Educação na Estratégia Nacional de Educação para o Desenvolvimento”,<italic id="e-7b259639f0bf"> </italic> in a global citizenship perspective (Cardoso et al., 2016). </p>
+        </list-item>
+        <list-item id="li-2c86a07d16f9">
+          <p>“Estratégia Nacional de Educação para a Cidadania, Ministério da Educação”, curriculum guide for the teaching of the subject “Cidadania e Desenvolvimento”, which is compulsory in all grades of basic and secondary education (Direção Geral de Educação, 2017). </p>
+        </list-item>
+        <list-item id="li-b78395022114">
+          <p>“Aprendizagens Essenciais - Cidadania e Desenvolvimento, Ministério da Educação”, which establishes the curriculum for this compulsory subject (Direção Geral de Educação, 2018). </p>
+        </list-item>
+        <list-item id="li-b9087b995d67">
+          <p>Training program of the "IPL-Escola Superior de Educação (2020)". </p>
+        </list-item>
+        <list-item id="li-c48a245f9f72">
+          <p>Statutes of the “Escola Superior de Educação de Lisboa, IPL”<italic id="e-1aaf61234152"> </italic> (Estatutos da ESELx, 2018). </p>
+        </list-item>
+        <list-item id="li-d87c9dc19ea3">
+          <p>Accreditation report of the “Mestrado em Ensino Básico, Português e História e Geografia do IPL-Escola Superior de Educação (2014)”.</p>
+        </list-item>
+      </list>
+      <p id="p-9d6e4264d401">To carry out this study, public policy documents of different types were analysed, with the aim of observing the presence of "conceptual axes" in the documentation describing these policies. These documents were analysed using the normative method of content analysis (Neuendorf, 2002). Specifically, the data were analysed by different researchers, comparing the results to ensure the reliability of the results. The content of the public policy documents analysed was divided into sentences, using the syntactic sampling strategy (Krippendorff, 2004), where each sentence was considered a single unit of analysis. Finally, the absolute and relative frequency of units of analysis was calculated. This procedure was carried out with the computer support of the qualitative data analysis programme NVivo, which facilitated the coding of the extraction of fragments, as well as the counting of frequencies.</p>
+    </sec>
+    <sec>
+      <title id="t-695a1b325eb2">Data analysis and results: References to the conceptual axis "Imagine"</title>
+      <p id="t-f7bddb9a532c">After analysing the documents cited, we can show the presence of education for the future as part of the conceptual axis "Imagine", among the four axes defined in the theoretical framework of this article. Specifically, the case of Portugal is marked by a near absence of references to the conceptual axes in national education policy documents and in the guidance documents of the teacher training institution. Out of a total of 125 references, national policy documents account for 13.6% and teacher training documents for 14.4%. In contrast, curriculum guidance documents for basic education (6-12 years) account for 72% of the references. </p>
+      <p id="p-df4a261f26e3">As far as state policy documents are concerned, in the Portuguese case, the few references are distributed only along the axes "Value" (41%) and, principally, "Act" (59%). The "Imagine" axis<italic id="e-a2d19a5a1e6c">,</italic> which represents the approach to education for the future, has no presence in these documents, as shown in Figure 1. In the case of Spain, 19.4% of the references to conceptual axes found in-state public policy documents are included in the "Imagine" axis<italic id="e-e43e72eb10a9">.</italic> Likewise, in this case, the presence of the axes "Act" (41.9%) and "Value" (32.3%) also stand out.</p>
+      <fig id="f-dc9654247977" orientation="portrait" fig-type="graphic" position="anchor">
+        <label>Figure 0 </label>
+        <graphic id="g-9054e89f7a56" xlink:href="https://typeset-prod-media-server.s3.amazonaws.com/article_uploads/eae32c94-3db6-40ff-a3c0-c20656bcd932/image/ad269959-6f42-4238-a8eb-f6ed2e36351d-ueng-05-01.png"/>
+      </fig>
+      <p id="p-acf543fb9c89">This lack of reference changes completely when we analyse the curriculum guidance documents for Basic Education (6-12 years) in Portugal. At this level, we found 90 references, which corresponds to 72% of them. In their distribution across the four conceptual axes, "Value" (32%) and "Act" (39%) continue to account for the largest number of references, with a total of 71%, and "Examine<italic id="e-606fc1e0b664">"</italic> continues to have a residual presence (3%) among the references that have been identified. </p>
+      <p id="p-b1a1d732e261">In this case, "Imagine" accounts for a significant number of references in the curricular documents of Basic Education in Portugal, reaching 26%. On the other hand, the analysis of the Catalan Primary Education curriculum concludes with a total of 70 references to the conceptual axes, of which 22.9% deal with questions related to the "Imagine" axis, as shown in Figure 2.</p>
+      <fig id="f-a59e9e9e4f16" orientation="portrait" fig-type="graphic" position="anchor">
+        <label>Figure 0 </label>
+        <graphic id="g-d926dedaae63" xlink:href="https://typeset-prod-media-server.s3.amazonaws.com/article_uploads/eae32c94-3db6-40ff-a3c0-c20656bcd932/image/0facc9eb-5489-4481-99e0-a9f3123e1444-ueng-05-02.png"/>
+      </fig>
+      <p id="p-28c901ca7f14">Finally, as far as institutional public policies are concerned, the few references found in the Portuguese case are divided into three conceptual axes: "Value" (50%), "Act" (44%) and "Imagine" (6%). Once again, the axis that focuses on the imagination of the future makes few appearances in the documents analysed, in this case in the training programmes of the Polytechnic Institute of Lisbon (Figure 3). </p>
+      <p id="p-9860c727bb24">For their part, the institutional public policies analysed in Catalonia, which include the report of the Primary Education Degree and its teaching guides at the Autonomous University of Barcelona, present a total of 199 references to the four conceptual axes. In this case, the "Imagine" axis has a total of 53 references, representing 26.6% of the total. Again, in this case, the presence of the "Value" axis (50.8%) stands out.</p>
+      <fig id="f-75f6cf895306" orientation="portrait" fig-type="graphic" position="anchor">
+        <label>Figure 0 </label>
+        <graphic id="g-e33492455a04" xlink:href="https://typeset-prod-media-server.s3.amazonaws.com/article_uploads/eae32c94-3db6-40ff-a3c0-c20656bcd932/image/9b98a633-f902-49b4-8a94-0fbdd1fa5b73-ueng-05-03.png"/>
+      </fig>
+    </sec>
+    <sec>
+      <title id="t-250ddc6c44f2">Discussion and conclusions</title>
+      <p id="t-dff32c16826e">From a comparative point of view, the results show that there does not seem to be a single line in the way the construction of the idea of the future is treated in the public policy documents of the respective countries at the Iberian level. While we see similar results in the analyses of Primary Education curricula, state public policies and institutional policies show different results. However, we can identify some common elements. In particular, the two countries agree that the conceptual axis "Imagine" lacks a particularly high percentage of references, especially in contrast to other axes, such as "Value". In practically all cases, the<italic id="e-84b8d798b509"> "</italic>Imagine" axis occupies the third position in the percentage of frequencies of the selected units of analysis, in some cases with very low percentage figures (the Portuguese case of references to Imagine in institutional public policies, with 6% of them, serves as an example). In fact, in Portugal's state public policies, the axis is not referenced in any of the cases.  </p>
+      <p id="p-1443747d957e">The case of the Primary Education curriculum in both Catalonia (26%) and Portugal (22.9%) may be an exception, but these figures do not reach the frequency of the usual priority axes ("Value" and "Act"), nor are they representative of the results of the rest of public policies. On the other hand, in the case of institutional teacher training policies, there are significant differences between the percentage of references to the "Imagine" axis in the documents of the Polytechnic Institute of Lisbon (6%) and the Autonomous University of Barcelona (26.6%), but the figures are still not remarkable in either case, compared to other axes, such as "Value". Thus, despite the disparity in the results between them, the two countries have in common that the treatment of the idea of the future, although it has a certain presence in the plans of the respective education systems, does not seem to be a priority in the design of public policies for the time being.  </p>
+      <p id="p-c373ab15307e">In the theoretical framework of this article, we pointed out that imagination, and with it the imagination of a desirable future, is teachable. This study's introduction states that the tendency of people in the 21st century is to imagine, with resignation, a catastrophic future (Hicks, 2006; Garcés, 2020), without the capacity to make medium- and long-term predictions (Leccardi, 2014). In this context, and understanding imagination as a teachable skill (Garcés, 2020), the responsibility of educating to learn to imagine desirable futures falls on the proposals of Education for the Future. Thus, without public policies that prioritise the treatment of EF in their curricula, the tendency to imagine the future in catastrophic terms will continue, without bringing about any change that would improve the trajectory towards another type of conceptual construction. In turn, the implementation of Education for the Future can also represent an application of the Competences for Democratic Culture, specifically in the case of “Imagine. Democratic and sustainable futures”. In short, the present study is a wake-up call. The results of this analysis suggest that the opportunity to educate learners to imagine desirable futures may currently be missed in the participating countries. This not only condemns us to remain forever in the "prisons of the possible" (Garcés, 2020) but considering that EF is developed by establishing a connection with the past (Santisteban &amp; Anguera, 2014), it also limits our ability to help students build historical awareness. (<xref id="x-92eaec761689" rid="" ref-type="bibr">1</xref>) </p>
+    </sec>
+  </body>
+  <back>
+    <fn-group id="fg-c8a65a29e6c9">
+      <fn id="f-2a691b3f2ff0">
+        <p id="p-f007e701938a">All references by this author are translations of the original texts written in Catalan.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="R147315325442070">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Slaughter</surname>
+              <given-names>R</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname/>
+              <given-names>D. Hicks</given-names>
+            </name>
+          </person-group>
+          <article-title>Futuros</article-title>
+          <source>Educación para la paz</source>
+          <publisher-name>Morata</publisher-name>
+          <year>1988</year>
+          <fpage>247</fpage>
+          <lpage>262</lpage>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442071">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Orden ECI/3857/2007, de 27 de diciembre</collab>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <publisher-name>por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de la profesión de Maestro en Educación Primaria Boletín Oficial del Estado, 312, de 29 de diciembre de 2007</publisher-name>
+          <uri>https://bit.ly/3syPwf5</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442072">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Direção Geral de Educação (Ed.)</collab>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Estratégia nacional de educação para a cidadania</source>
+          <year>2017</year>
+          <uri>https://bit.ly/3v7MUXR</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442073">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Santisteban</surname>
+              <given-names>A</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Martínez</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>García-Moris</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>García-Ruiz</surname>
+              <given-names>C.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>La investigación sobre la enseñanza de las ciencias sociales al servicio de la ciudadanía crítica y la justicia social</article-title>
+          <source>Investigación en Didáctica de las Ciencias Sociales. Retos, preguntas y líneas de investigación</source>
+          <publisher-name>Universidad de Córdoba y AUPDCS</publisher-name>
+          <year>2017</year>
+          <uri>https://bit.ly/3GvE5dL</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442074">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Servigne</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>R</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Colapsología</source>
+          <publisher-name>Arpa</publisher-name>
+          <year>2020</year>
+          <uri>https://bit.ly/3McGfBo </uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442075">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lilley</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Barker</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>N</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>The global citizen conceptualized: Accommodating ambiguity</article-title>
+          <source>Journal of Studies in International Education</source>
+          <year>2017</year>
+          <volume>21</volume>
+          <issue>1</issue>
+          <fpage>6</fpage>
+          <lpage>21</lpage>
+          <object-id pub-id-type="doi">https://doi.org/10.1177/1028315316637354</object-id>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442076">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mollenhauer</surname>
+              <given-names>K</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Vergessene zusammenhänge: Über kultur und erziehung</source>
+          <publisher-name>[Forgotten Connections: on culture and upbringing]. Routledge</publisher-name>
+          <year>2008</year>
+          <uri>https://bit.ly/3ls53tf</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442077">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guldi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Armitage</surname>
+              <given-names>D</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Manifiesto por la historia</source>
+          <publisher-name>Alianza Editorial</publisher-name>
+          <year>2016</year>
+          <uri>https://bit.ly/38w9gt2</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442078">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE)</collab>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <publisher-name>Boletín Oficial del Estado, 295, de 10 de diciembre de 2013</publisher-name>
+          <year>2013</year>
+          <uri>https://bit.ly/3l36jCV</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442079">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burke</surname>
+              <given-names>P</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Historia y teoría social</source>
+          <publisher-name>Amorrortu</publisher-name>
+          <year>2007</year>
+          <uri>https://bit.ly/38Cvmdi</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442080">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hicks</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Slaughter</surname>
+              <given-names>R</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Futures education: World yearbook of education 1998</source>
+          <publisher-name>Kogan Page</publisher-name>
+          <year>1998</year>
+          <uri>https://bit.ly/3Lk7sRm</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442081">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hicks</surname>
+              <given-names>D</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>The future only arrives when things look dangerous: Reflections on futures education in the UK</article-title>
+          <source>Futures</source>
+          <year>2011</year>
+          <volume>44</volume>
+          <fpage>4</fpage>
+          <lpage>13</lpage>
+          <uri>https://doi.org/10.1016/j.futures.2011.08.002</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442082">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spivak</surname>
+              <given-names>G</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>An aesthetic education in the era of globalization</source>
+          <publisher-name>Harvard University Press</publisher-name>
+          <year>2012</year>
+          <uri>https://doi.org/10.5406/radicalteacher.95.0066</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442083">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Real Decreto 1594/2011, de 4 de noviembre</collab>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <publisher-name>por el que se establecen las especialidades docentes del Cuerpo de Maestros que desempeñen sus funciones en las etapas de Educación Infantil y de Educación Primaria reguladas en la Ley orgánica 2/2006, de 3 de mayo, en Educación. Boletín Oficial del Estado, 270, de 9 de noviembre de 2011</publisher-name>
+          <uri>https://bit.ly/3MohUZv </uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442084">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bell</surname>
+              <given-names>W</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Foundations of futures studies in Vol. 1: History, purposes, and knowledge</source>
+          <publisher-name>NewBrunswick</publisher-name>
+          <year>1997</year>
+          <uri>https://bit.ly/3FZLJNv</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442085">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arendt</surname>
+              <given-names>H</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>The promise of politics</source>
+          <publisher-name>Schoken Books</publisher-name>
+          <year>2005</year>
+          <uri>https://bit.ly/3MloEag</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442086">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parker</surname>
+              <given-names>W C</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>Listening to strangers: Classroom discussion in democratic education</article-title>
+          <source>Teachers College Record</source>
+          <year>2010</year>
+          <volume>112</volume>
+          <issue>11</issue>
+          <fpage>2815</fpage>
+          <lpage>2832</lpage>
+          <object-id pub-id-type="doi">https://doi.org/10.1177/016146811011201104</object-id>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442087">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Consejo de Europa (Ed.)</collab>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Reference framework of competences for democratic culture. Volume 1 y 2. Context, concepts and model</source>
+          <publisher-name>Council of Europe</publisher-name>
+          <year>2018</year>
+          <uri>https://bit.ly/3suibSm</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442088">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garcés</surname>
+              <given-names>M</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Escola d’aprenents</source>
+          <publisher-name>Galàxia Gutenberg</publisher-name>
+          <year>2020</year>
+          <uri>https://bit.ly/3MiAzWm</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442089">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fontana</surname>
+              <given-names>J</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Historia: Análisis del pasado y proyecto social</source>
+          <publisher-name>Austral</publisher-name>
+          <year>2016</year>
+          <uri>https://bit.ly/3Lu9gqT</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442090">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hicks</surname>
+              <given-names>D W</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Lessons for the future. The missing dimensions in education</source>
+          <publisher-name>Trafford Publishing</publisher-name>
+          <year>2006</year>
+          <uri>https://bit.ly/3yBRhvY</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442091">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pagès</surname>
+              <given-names>J</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>Enseñar historia, educar la temporalidad, formar para el futuro</article-title>
+          <source>El futuro del pasado</source>
+          <year>2019</year>
+          <volume>10</volume>
+          <fpage>19</fpage>
+          <lpage>56</lpage>
+          <uri>https://doi.org/10.14516/fdp.2019.010.001.001</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442092">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Santisteban</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Anguera</surname>
+              <given-names>C</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>Formación de la conciencia histórica y educación para el futuro</article-title>
+          <source>Clío &amp; Asociados</source>
+          <year>2014</year>
+          <fpage>249</fpage>
+          <lpage>267</lpage>
+          <object-id pub-id-type="doi">https://doi.org/10.14409/cya.v0i18/19.4750 </object-id>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442093">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Üstündag</surname>
+              <given-names>N</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>The city rises</article-title>
+          <source>Roar magazine</source>
+          <year>2017</year>
+          <volume>6</volume>
+          <uri>https://bit.ly/3FBGrri</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442094">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Direção Geral de Educação (Ed.)</collab>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Aprendizagens essenciais. Ensino básico</source>
+          <year>2018</year>
+          <uri>https://bit.ly/34WhpoR</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442095">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anguera</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Santisteban</surname>
+              <given-names>A</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>De-Alba</surname>
+              <given-names>A.N.</given-names>
+            </name>
+            <name>
+              <surname>García</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Santisteban</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>El concepto de futuro en la enseñanza de las ciencias sociales y su influencia en la participación democrática</article-title>
+          <source>Educar para la participación ciudadana en la enseñanza de las Ciencias Sociales V.I</source>
+          <publisher-name>Díada</publisher-name>
+          <year>2012</year>
+          <fpage>391</fpage>
+          <lpage>400</lpage>
+          <uri>https://bit.ly/3lS56id</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442096">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martorell-Campos</surname>
+              <given-names>F</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Contra la distopía: La cara B de un género de masas</source>
+          <publisher-name>La Caja Books</publisher-name>
+          <year>2021</year>
+          <uri>https://bit.ly/3N9YSG1</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442097">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Neuendorf</surname>
+              <given-names>K A</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>The content analysis guidebook</source>
+          <publisher-name>Sage</publisher-name>
+          <year>2002</year>
+          <uri>https://bit.ly/39eqf3c</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442098">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Estatutos da ESELx (Ed.)</collab>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Escola Superior de Educação</source>
+          <publisher-name>Instituto Politécnico de Lisboa</publisher-name>
+          <year>2018</year>
+          <uri>https://bit.ly/3HbI0eF</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442099">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tyner</surname>
+              <given-names>A H</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>Action, judgement and imagination in Hannah Arendt’s thought</article-title>
+          <source>Political Research Quarterly</source>
+          <year>2017</year>
+          <volume>70</volume>
+          <issue>3</issue>
+          <fpage>523</fpage>
+          <lpage>534</lpage>
+          <object-id pub-id-type="doi">https://doi.org/10.1177/1065912917702500</object-id>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442100">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Santisteban</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Anguera</surname>
+              <given-names>A</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Díaz-Matarranz</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Santisteban</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Cascajero</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Las imágenes del futuro en los medios de comunicación y su influencia en la enseñanza de las ciencias sociales</article-title>
+          <source>Medios de comunicación y pensamiento crítico. Nuevas formas de interacción social</source>
+          <publisher-name>Universidad de Alcalá/AUPDCS</publisher-name>
+          <year>2013</year>
+          <fpage>253</fpage>
+          <lpage>267</lpage>
+          <uri>https://bit.ly/38VGouu</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442101">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hicks</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Holden</surname>
+              <given-names>C</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>Remembering the future: what do children think?</article-title>
+          <source>Environmental Education Research</source>
+          <year>2007</year>
+          <volume>13</volume>
+          <fpage>501</fpage>
+          <lpage>512</lpage>
+          <uri>https://doi.org/10.1080/13504620701581596</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442102">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De-Sousa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Aguiló</surname>
+              <given-names>A</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Aprendizajes globales. Descolonizar, desmercantilizar y despatriarcalizar desde la epistemología del Sur</source>
+          <publisher-name>Icaria</publisher-name>
+          <year>2019</year>
+          <uri>https://bit.ly/3LXfoZ9</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442103">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Ley Orgánica 2/2006, de 3 de mayo, en Educación</collab>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <publisher-name>Boletín Oficial del Estado, 106, de 4 de mayo de 2006</publisher-name>
+          <uri>https://bit.ly/3swVkWp </uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442104">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cardoso</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pereira</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Neves</surname>
+              <given-names>M J</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Referencial de educação para o desenvolvimento – educação pré-escolar, ensino básico e ensino secundário</source>
+          <publisher-name>Instituto Camões, CIDAC, FGS</publisher-name>
+          <year>2016</year>
+          <uri>https://bit.ly/38oufxJ</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442105">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Grado de Educación Primaria (Ed.)</collab>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Universidad Autónoma de Barcelona</source>
+          <publisher-name>Facultad de Ciencias de la Educación</publisher-name>
+          <year>2021</year>
+          <uri>https://bit.ly/3w3u04n</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442106">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pangrazio</surname>
+              <given-names>L J</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>Reconceptualising critical digital literacy</article-title>
+          <source>Discourse: Studies in the Cultural Politics of Education</source>
+          <year>2016</year>
+          <volume>37</volume>
+          <fpage>167</fpage>
+          <lpage>174</lpage>
+          <object-id pub-id-type="doi">https://doi.org/10.1080/01596306.2014.942836 </object-id>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442107">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leccardi</surname>
+              <given-names>C</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>Young people and the new semantics of the future</article-title>
+          <source>Società Mutamento Politica</source>
+          <year>2014</year>
+          <volume>5</volume>
+          <issue>10</issue>
+          <fpage>41</fpage>
+          <lpage>54</lpage>
+          <object-id pub-id-type="doi">https://doi.org/10.13128/SMP-15404 </object-id>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442108">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Latouche</surname>
+              <given-names>S</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname/>
+              <given-names>A.G. D’Alisa</given-names>
+            </name>
+            <name>
+              <surname/>
+              <given-names>F. Demaria</given-names>
+            </name>
+            <name>
+              <surname/>
+              <given-names>G. Kallis</given-names>
+            </name>
+          </person-group>
+          <article-title>Pedagogía del desastre</article-title>
+          <source>Decrecimiento. Vocabulario para una nueva era</source>
+          <year>2015</year>
+          <uri>https://bit.ly/3NpEXD3</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442109">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koselleck</surname>
+              <given-names>R</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Futuro pasado; para una semántica de los tiempos históricos</source>
+          <publisher-name>Paidós</publisher-name>
+          <year>1993</year>
+          <uri>https://bit.ly/3N3tWag</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442110">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Inayatullah</surname>
+              <given-names>S</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <article-title>Alternative futures of a challenged democracy</article-title>
+          <source>Democracy and futures</source>
+          <publisher-name>Parlamento de Finlandia</publisher-name>
+          <year>2006</year>
+          <fpage>113</fpage>
+          <lpage>127</lpage>
+          <uri>https://bit.ly/3l3OnIg </uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442111">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sant</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Davies</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Pashby</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Shultz</surname>
+              <given-names>L</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Global citizenship education. A critical introduction to key concepts and debates</source>
+          <publisher-name>Bloomsbury</publisher-name>
+          <year>2018</year>
+          <uri>https://doi.org/10.5040/9781474286749</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442112">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Slaughter</surname>
+              <given-names>R A</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>Responding to a planetary emergency</article-title>
+          <source>Futures</source>
+          <year>2012</year>
+          <volume>44</volume>
+          <issue>3</issue>
+          <fpage>273</fpage>
+          <lpage>276</lpage>
+          <object-id pub-id-type="doi">https://doi.org/10.1016/j.futures.2011.10.010</object-id>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442113">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arendt</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kohn</surname>
+              <given-names>J</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Between past and future</source>
+          <publisher-name>Penguin Books</publisher-name>
+          <year>2006</year>
+          <uri>https://bit.ly/3whXN9B</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442114">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Su</surname>
+              <given-names>H</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname/>
+              <given-names>J. Drerup</given-names>
+            </name>
+            <name>
+              <surname/>
+              <given-names>F. Felder</given-names>
+            </name>
+            <name>
+              <surname/>
+              <given-names>V. Magyar-Hass</given-names>
+            </name>
+            <name>
+              <surname/>
+              <given-names>G. Schweiger</given-names>
+            </name>
+          </person-group>
+          <article-title>Education with the future at stake</article-title>
+          <source>Creating Green Citizens</source>
+          <publisher-name>Springer</publisher-name>
+          <year>2022</year>
+          <uri>https://bit.ly/3yQdTZI</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442115">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krippendorff</surname>
+              <given-names>K</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Content analysis: An introduction to its methodology</source>
+          <publisher-name>Sage</publisher-name>
+          <year>2004</year>
+          <uri>https://bit.ly/38NWJ4x</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442116">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sardar</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Sweeney</surname>
+              <given-names>J A</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>The three tomorrows of postnormal times</article-title>
+          <source>Futures</source>
+          <year>2016</year>
+          <volume>75</volume>
+          <fpage>1</fpage>
+          <lpage>13</lpage>
+          <object-id pub-id-type="doi">https://doi.org/10.1016/j.futures.2015.10.004</object-id>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442117">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schulz</surname>
+              <given-names>M S</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>Debating futures: Global trends, alternative visions, and public discourse</article-title>
+          <source>International Sociology</source>
+          <year>2016</year>
+          <volume>31</volume>
+          <issue>1</issue>
+          <fpage>3</fpage>
+          <lpage>20</lpage>
+          <object-id pub-id-type="doi">https://doi.org/10.1177/0268580915612941</object-id>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442118">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Real Decreto 1393/2007, de 29 de octubre</collab>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <publisher-name>por el que se establece la ordenación de las enseñanzas universitarias oficiales. Boletín Oficial del Estado, 260, de 30 de octubre de 2007</publisher-name>
+          <uri>https://bit.ly/3l1RTTp</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442119">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Simmel</surname>
+              <given-names>G</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Sociología: Estudio sobre las formas de socialización</source>
+          <publisher-name>Alianza</publisher-name>
+          <year>1986</year>
+          <uri>https://doi.org/10.2307/40182602</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442120">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bauman</surname>
+              <given-names>Z</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Liquid times. Living on an age of uncertainty</source>
+          <publisher-name>Polity Press</publisher-name>
+          <year>2007</year>
+          <uri>https://bit.ly/3Lgy7OJ</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442121">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Almendro</surname>
+              <given-names>R</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Claus estratègiques (educatives) per transformar la nostra obra d’art</source>
+          <publisher-name>Rosa Sensat</publisher-name>
+          <year>2022</year>
+          <uri>https://bit.ly/3IdMxOU</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442122">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fernández-De-Mosterín</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Morán-Calvo</surname>
+              <given-names>M L</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <article-title>Buscando un lugar en el mundo. Los imaginarios juveniles de futuro en tiempos de crisis</article-title>
+          <source>Mélanges de la casa de Velázquez</source>
+          <year>2017</year>
+          <volume>47</volume>
+          <fpage>47</fpage>
+          <lpage>63</lpage>
+          <uri>https://doi.org/10.4000/mcv.7710</uri>
+        </element-citation>
+      </ref>
+      <ref id="R147315325442123">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garcés</surname>
+              <given-names>M</given-names>
+            </name>
+            <collab/>
+          </person-group>
+          <person-group person-group-type="editor"/>
+          <source>Nova il·lustració radical</source>
+          <publisher-name>Anagrama</publisher-name>
+          <year>2019</year>
+          <uri>https://doi.org/10.1387/pceic.20501</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
