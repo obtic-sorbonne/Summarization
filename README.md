@@ -27,3 +27,4 @@ Based on these considerations, the human evaluations have been conducted using f
 ## Summary automatic evaluation
 ROUGE method
 ## Interface 
+https://obtic.sorbonne-universite.fr/summarizer/
