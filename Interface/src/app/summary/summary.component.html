@@ -1,0 +1,262 @@
+
+<div class="header">
+	<img src="assets/logo.png" alt="">
+</div>
+<div class="container" #container>
+	<form [formGroup]="aFormGroup">
+		<ngx-invisible-recaptcha #captchaElem
+		  [siteKey]="siteKey"
+		  
+		  [ngModel]="recaptcha"
+		  [ngModelOptions]="{ standalone: true }">
+		</ngx-invisible-recaptcha>
+	  </form>
+	<div *ngIf="robot">
+
+		<a href="" style="text-decoration: none;"><h1>The Summarizer</h1></a>
+		<!-- Select a model -->
+		<div style="margin-bottom:10px; display: flex; justify-content: space-between; align-items: center;">
+			<select style="width:350px; " (change)="onSelectModel($event)" #select>
+				<option selected hidden disabled>Select Model</option>
+				<option value="facebook/bart-large-cnn">facebook/bart-large-cnn</option>
+				<option value="tuner007/pegasus_summarizer">tuner007/pegasus_summarizer</option>
+				<option value="csebuetnlp/mT5_multilingual_XLSum">csebuetnlp/mT5_multilingual_XLSum</option>
+				<!-- T5 “Text-to-Text Transfer Transformer” -->
+			</select>
+			<a class="readme" href="https://github.com/obtic-scai/Summarization" target="_blank">README</a>
+		</div>
+		
+		<div>
+			<h4>Summary percentage</h4>
+			<div style="padding-bottom:20px; display: flex; justify-content: space-between;">
+				<input type="range" value="20" min="10" max="50" style="width: 95%;" #ranger (input)="rangeChange(ranger.value)">
+				{{max_length}} %
+			</div>
+		</div>
+		
+	
+	
+		<!-- Textarea -->
+		<div style="margin-bottom: 10px;">
+			<textarea class="textarea" placeholder="Paste your text here (max 400 words) or upload your file.
+Two current options: Plain text format or XML " (input)="changeText()" rows="10" #text></textarea>
+			
+			<div style="display: flex; justify-content: end;" *ngIf="!upload || extension ==='txt'">
+				<span>{{textWord}}</span>
+				<span *ngIf="!upload">/ 400 Words</span>
+				<span *ngIf="upload && extension ==='txt'">Words</span>
+				<!-- <span>{{character}} </span>
+				<span>Characters</span> -->
+			</div>
+		</div>
+		
+		<!-- tags titles -->
+		<div *ngIf="tagTitles.length > 0" 
+			style="border: 1px ;
+			border-radius: 10px;
+			padding: 5px;
+			margin-bottom: 10px;
+			box-shadow: rgba(3, 119, 214, 0.3) 0px 0px 0px 3px;">
+			<h4 style="margin-bottom: 5px;">Choose title from list</h4>
+			<div  style="display:flex;  flex-wrap: wrap;">
+				<label for="tag-title{{i}}" *ngFor="let title of tagTitles, let i=index">
+					<input type="checkbox" id="tag-title{{i}}" (change)="selectTag($event,title)" [disabled]="isDisabled">
+					{{title}}
+				</label>
+			</div>
+		</div>
+
+		<!-- Buttons -->
+		<div style="margin-bottom: 20px;justify-content: space-between; display: flex;" >
+			<!-- Upload file -->
+			<div class="upload-btn-wrapper" style="display: flex; ">
+				<label for="fileDropReff" class="dropzone">
+					<h5>Upload</h5>
+					<input type="file" accept=".txt, .xml" (change)="uploadFile($event)" #inputFile id="fileDropReff">
+				</label>
+				<span>{{fileName}}</span>
+				<button (click)="example_title()">Example xml file</button>
+
+			</div>
+			<!-- Summarize && Reset button -->
+			<div>
+				<button (click)="summarize()" style="margin-right: 10px" >Summarize</button>
+				<button (click)="clearText()" >Reset</button>
+			</div>
+		</div>
+		
+		<hr style="box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 1px;">
+	
+		<!-- Spinner -->
+		<span *ngIf="!resume && spinner" class="loader"></span>
+	
+		<!-- General keywords for xml file -->
+		<div *ngIf="keyWord.length>0">
+			<h3>General Summary <span style="font-size: 12px;" class="badge badge-secondary">not automatically summarized</span></h3> 
+			<div class="keyword">
+				{{generalSummary}}
+			</div>
+
+			<h3>General Keywords <span style="font-size: 12px;" class="badge badge-secondary">not automatically extracted</span></h3>
+			<div class="keyword">
+				<span class="key-grey" *ngFor="let k of keyWord">{{k}}</span>
+			</div>
+		</div>
+	
+		<!-- Displaying file xml result -->
+		<div *ngIf="allSummaries.length>0">
+			<div class="summary-keyword" *ngFor="let item of allSummaries">
+				<!-- Summary -->
+				<div style="width: 63%;" class="summary">
+					<h4 style="margin-bottom: 5px;">{{item.title}}</h4>
+					{{item.summary.summary}}
+				</div>
+				
+	
+				<!-- Keywords -->
+				<div style="width: 35%;" class="keyword">
+					<h4 style="width: 100%;">Keywords</h4>
+					<span *ngFor="let keyword of item.summary.keywords"
+							class="key-grey"
+							[ngClass]="{'key-bold' : keyword[1] >= 0.5}">
+							{{keyword}}
+					</span>
+				</div>
+			</div>
+			<div style="display: flex; justify-content: space-between;">
+				<div class="icons">
+					<img src="assets/translate.png" alt="" title="Translator" (click)="translate()">
+					<!-- <a href="https://www.deepl.com/translator" target="_blank"><img src="assets/deep.png" alt="" title="Deep translator"></a> -->
+					<a [href]="fileUrl" download="file.txt"><img src="assets/download.png" alt="" title="Download as txt"></a>
+					<img src="assets/copy.png" alt="" (click)="copyText()" title="Copy to clipboard">
+				</div>
+				<div style="padding-top: 5p; padding-bottom:5px">
+					<span>{{resumeWord}}</span>
+					<span>Words ||</span>
+					<span>Computation time on cpu: </span>
+					<span>{{processTime}} s</span>
+				</div>
+			</div>
+		</div>
+	
+		<!-- Displaying file text result -->
+		<div *ngIf="extension ==='txt' && upload && resume">
+			<div class="summary-keyword" >
+				<!-- Summary -->
+				<div style="width: 63%;" class="summary" >
+					<h4 style="margin-bottom: 5px;">Summary</h4>
+						<span ngxCopyPaste #cp="copy">{{textTranslated}}</span>
+						<div class="icons">
+							<img src="assets/translate.png" alt="" title="Translator" (click)="translate()">
+							<!-- <a href="https://www.deepl.com/translator" target="_blank"><img src="assets/deep.png" alt="" title="Deep translator"></a> -->
+							<a [href]="fileUrl" download="file.txt"><img src="assets/download.png" alt="" title="Download as txt"></a>
+							<!-- <img src="assets/copy.png" alt="" (click)="copyText()"> -->
+							<img src="assets/copy.png" alt="" (click)="cp.copy()" title="Copy to clipboard">
+						</div>
+				</div>
+				
+				<!-- Keywords -->
+				<div style="width: 35%;" class="keyword">
+					<h4 style="width: 100%;">Keywords</h4>
+					<span *ngFor="let keyword of keywords" 
+							class="key-grey"
+							[ngClass]="{'key-bold' : keyword[1] >= 0.5}">
+							{{keyword}}
+					</span>
+				</div>
+			</div>
+			<div style="padding-top: 5p; padding-bottom:5px">
+				<span>{{resumeWord}}</span>
+				<span>Words ||</span>
+				<span>Computation time on cpu: </span>
+				<span>{{processTime}} s</span>
+			</div>
+		</div>
+	
+		<!-- Displaying text result -->
+		<div *ngIf="resume && !upload">
+			<div class="summary-keyword" >
+				<!-- Summary -->
+				<div style="width: 63%;" class="summary">
+					<h4 style="margin-bottom: 5px;">Summary</h4>
+					<span ngxCopyPaste #cp="copy">{{textTranslated}}</span>
+					<div class="icons">
+						<img src="assets/translate.png" alt="" title="Translator" (click)="translate()">
+						<!-- <a href="https://www.deepl.com/translator" target="_blank"><img src="assets/deep.png" alt="" title="Deep translator"></a> -->
+						<a [href]="fileUrl" download="file.txt"><img src="assets/download.png" alt="" title="Download as txt"></a>
+						<!-- <img src="assets/copy.png" alt="" (click)="copyText()"> -->
+						<img src="assets/copy.png" alt="" (click)="cp.copy()" title="Copy to clipboard">
+					</div>
+				</div>
+				
+				<!-- Keywords -->
+				<div style="width: 35%;" class="keyword">
+					<h4 style="width: 100%;">Keywords</h4>
+					<span *ngFor="let keyword of keywords" 
+							class="key-grey"
+							[ngClass]="{'key-bold' : keyword[1] >= 0.5}">
+							{{keyword}}
+					</span>
+				</div>
+			</div>
+			<div style="padding-top: 5p; padding-bottom:5px">
+				<span>{{resumeWord}}</span>
+				<span>Words ||</span>
+				<span>Computation time on cpu: </span>
+				<span>{{processTime}} s</span>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+<!-- Modal alert message -->
+<div *ngIf="isModel" class="dialog">
+	<div class="dialog-message">
+		<h3>Choose a model please!</h3>
+		<button (click)="closeDialog()">OK</button>
+	</div>
+</div>
+
+<!-- Modal alert message -->
+<div *ngIf="!isData" class="dialog">
+	<div class="dialog-message">
+		<h3>There is no summary!</h3>
+		<button (click)="closeDialogMsg()">OK</button>
+	</div>
+</div>
+
+<!-- Modal fo translator -->
+<div *ngIf="isTranslator" class="dialog">
+	<div class="dialog-translator">
+		<h3 style="text-align: center;">Translator</h3>
+		<div style="display: flex; justify-content: space-between;">
+			<div style="width: 50%; ">
+				<div>
+					<p style="padding: 10px 5px; margin:0 0 10px; color: grey;font-weight: bold;">Auto detect</p>
+				</div>
+				<div style="border: solid 1px  silver; border-right: none; height: 250px; width: 100%; border-radius: 5px;">
+					<textarea disabled class="textarea-translate" [value]="textTranslated"></textarea>
+				</div>
+			</div>
+			<div style="width: 50%; ">
+				<div>
+					<select class="select"  (change)="onSelectTarget($event)">
+						<option [selected]="target == 'en'" value="en">English</option>
+						<option [selected]="target == 'fr'" value="fr">Frenche</option>
+						<option [selected]="target == 'de'" value="de">Dutch</option>
+						<option [selected]="target == 'ar'" value="ar">Arabic</option>
+
+					</select>
+				</div>
+				<div style="border: solid 1px silver; height: 250px; width: 100%; border-radius: 5px;">
+					<textarea class="textarea-translate" [value]="translated" ></textarea>
+				</div>
+			</div>
+		</div>
+		<button (click)="closeDialogMsg()" style="position: absolute; right:10px; top: 10px">X</button>
+		<!-- <button (click)="translate()">translate</button> -->
+	</div>
+</div>
+
